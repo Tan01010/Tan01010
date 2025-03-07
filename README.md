@@ -12,7 +12,7 @@ I have worked on many projects, but here are a few that you can go check out in 
 I am currently working on a project called StudyVerse
 
 ## Contact
-[Contact Form](https://forms.gle/b6kTkn5iEzuDzWf89 "@embed")
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfGd3w5zgzIPSv15EuGtoeNx5PSb2SzHJaKN-vq_wXSAO9X4Q/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 <!--
 **Tan01010/Tan01010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
