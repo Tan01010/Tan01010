@@ -1,5 +1,5 @@
 ## Hi There 👋
-Hello! My name is Tan01010, but everyone knows me as Tanner Ordonez.
+Hello! My name is Tan01010.
 I have worked on many projects, but here are a few that you can go check out in the repo tab.
 
 ## Repositories
